@@ -166,6 +166,21 @@
 #navbar{
     display: none;
 }
+.btn-visit{
+    padding: 0 16px;
+    width: 100%;
+}
+.btn-visit button{
+    background: none;
+    color: #E56135;
+    padding: 12px 0;
+    border: 1px solid #e5e5e5;
+    width: 100%;
+    font-size: 12px;
+    font-weight: 600;
+    margin-bottom: 28px;
+    border-radius: 7px;
+}
 
 @media screen and (min-width: 500px) {
   .main-section {
